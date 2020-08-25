@@ -1,0 +1,30 @@
+AA0000000003
+Plush
+Cagnolino plush
+1
+18.2
+Bambini
+AA00000010
+Sedia da ufficio
+Sedia da ufficio girevole dotata di ruote
+1
+60.3
+Ufficio
+A00000012
+Frigorifero
+Frigorifero con refrigeratore
+1
+130.8
+Cucina
+AA0000000020
+Pannolini
+Pacco pannolini da 10 pezzi
+2
+17.4
+Bambini
+AA00000011
+Forno
+Forno con tre tipi di cottura
+1
+80.3
+Cucina

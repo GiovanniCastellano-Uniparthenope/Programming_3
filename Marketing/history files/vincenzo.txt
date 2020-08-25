@@ -1,0 +1,42 @@
+AA0000000001
+Tagliaerba
+Tagliaerba a benzina
+1
+410.5
+Giardinaggio
+AA00000006
+Laptop
+i3-8100, 4GB RAM, HD 500GB, Schermo 17'
+1
+399.99
+Hardware
+AA00000008
+Pacchetto Adobe
+Pacchetto Adobe
+1
+340.0
+Software
+AA00000009
+Lampada da ufficio
+Lampada da ufficio adatta alla lettura
+1
+16.5
+Ufficio
+AA0000000015
+Semi fiori rossi
+Semi fiori rossi
+10
+2.3
+Giardinaggio
+AA0000000016
+Semi fiori blu
+Semi fiori blu
+10
+2.3
+Giardinaggio
+AA0000000017
+Semi fiori gialli
+Semi fiori gialli
+10
+2.3
+Giardinaggio

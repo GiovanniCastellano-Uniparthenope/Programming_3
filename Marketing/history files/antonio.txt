@@ -1,0 +1,24 @@
+AA0000000001
+Tagliaerba
+Tagliaerba a benzina
+1
+410.5
+Giardinaggio
+AA0000000002
+Ventilatore
+Serve a rinfrescarsi
+1
+40.2
+Casa
+AA0000000003
+Plush
+Cagnolino plush
+1
+18.2
+Bambini
+AA0000000004
+Set pentole
+Set di 7 pezzi
+1
+250.3
+Cucina

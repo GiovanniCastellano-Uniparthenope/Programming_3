@@ -1,0 +1,48 @@
+AA0000000002
+Ventilatore medio
+Grandezza media, 2 velocità
+1
+40.2
+Casa
+AA0000000004
+Set pentole
+Set di 7 pezzi
+1
+250.3
+Cucina
+AA00000005
+Manubri
+Manubri con 2 dischi da 2Kg e 4 dischi da 1Kg
+1
+41.3
+Salute
+AA00000007
+Tower
+i5-9600K, 16GB RAM,  1xSSD 120GB + 1xHD 500GB + 1xHD 4TB, Scheda video Geforce GTX 1060 6GB VRAM, Alimentatore Modulare 750W
+1
+1335.7
+Hardware
+AA00000008
+Pacchetto Adobe
+Pacchetto Adobe
+1
+340.0
+Software
+AA00000009
+Lampada da ufficio
+Lampada da ufficio adatta alla lettura
+1
+16.5
+Ufficio
+AA00000010
+Sedia da ufficio
+Sedia da ufficio girevole dotata di ruote
+1
+60.3
+Ufficio
+AA0000000018
+Schermo 24'
+Schermo 24' 144Hz
+1
+170.0
+Hardware

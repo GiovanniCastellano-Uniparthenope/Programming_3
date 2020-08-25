@@ -1,0 +1,12 @@
+AA0000000001
+Tagliaerba
+Tagliaerba a benzina
+1
+410.5
+Giardinaggio
+AA0000000002
+Ventilatore
+Serve a rinfrescarsi
+1
+40.2
+Casa
