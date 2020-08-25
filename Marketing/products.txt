@@ -1,0 +1,120 @@
+AA0000000001
+Tagliaerba
+Tagliaerba a benzina
+7
+410.5
+Giardinaggio
+AA0000000002
+Ventilatore medio
+Grandezza media, 2 velocità
+7
+40.2
+Casa
+AA0000000003
+Plush
+Cagnolino plush
+3
+18.2
+Bambini
+AA0000000004
+Set pentole
+Set di 7 pezzi
+5
+250.3
+Cucina
+AA00000005
+Manubri
+Manubri con 2 dischi da 2Kg e 4 dischi da 1Kg
+22
+41.3
+Salute
+AA00000006
+Laptop
+i3-8100, 4GB RAM, HD 500GB, Schermo 17'
+27
+399.99
+Hardware
+AA00000007
+Tower
+i5-9600K, 16GB RAM,  1xSSD 120GB + 1xHD 500GB + 1xHD 4TB, Scheda video Geforce GTX 1060 6GB VRAM, Alimentatore Modulare 750W
+8
+1335.7
+Hardware
+AA00000008
+Pacchetto Adobe
+Pacchetto Adobe
+9
+340.0
+Software
+AA00000009
+Lampada da ufficio
+Lampada da ufficio adatta alla lettura
+24
+16.5
+Ufficio
+AA00000010
+Sedia da ufficio
+Sedia da ufficio girevole dotata di ruote
+9
+60.3
+Ufficio
+AA00000011
+Forno
+Forno con tre tipi di cottura
+29
+80.3
+Cucina
+A00000012
+Frigorifero
+Frigorifero con refrigeratore
+26
+130.8
+Cucina
+AA0000000013
+Ventilatore grande
+Ventilatore grande a tre velocità con piede ad altezza regolabile
+12
+82.0
+Casa
+AA0000000014
+Cesoie
+Cesoie per la potatura
+9
+12.3
+Giardinaggio
+AA0000000015
+Semi fiori rossi
+Semi fiori rossi
+55
+2.3
+Giardinaggio
+AA0000000016
+Semi fiori blu
+Semi fiori blu
+55
+2.3
+Giardinaggio
+AA0000000017
+Semi fiori gialli
+Semi fiori gialli
+55
+2.3
+Giardinaggio
+AA0000000018
+Schermo 24'
+Schermo 24' 144Hz
+18
+170.0
+Hardware
+AA0000000019
+Schermo 21'
+Schermo 21' 60Hz
+19
+120.2
+Hardware
+AA0000000020
+Pannolini
+Pacco pannolini da 10 pezzi
+10
+17.4
+Bambini
